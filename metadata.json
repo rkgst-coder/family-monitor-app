@@ -1,0 +1,8 @@
+{
+  "name": "App to monitor",
+  "description": "Local-first, zero-cloud parental control app to limit games and reels on your child's phone with direct remote parent controls, privacy-preserving tracking, and educational whitelisting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
